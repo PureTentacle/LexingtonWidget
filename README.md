@@ -1,3 +1,3 @@
 # LexingtonWidget
 
-  it is still a empty project
+  this App is a battery Widget with picture of Lexington in Warship Girls R
